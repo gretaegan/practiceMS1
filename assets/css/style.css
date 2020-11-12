@@ -1,0 +1,18 @@
+.navbar {
+    background-color: #4a4a4f;
+}
+
+.navbar ul {
+    text-align: left;
+    padding: 24px;
+}
+
+.navbar li {
+    display: inline-block;
+}
+
+.navbar a {
+    display: block;
+    color: #fafafa;
+    font-size: 20px;
+}
